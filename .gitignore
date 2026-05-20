@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+.env.vercel
+.vercel/
+dist/
+coverage/
+*.log
+.DS_Store
+.tools/
+commitmsg.txt
